@@ -18,9 +18,12 @@ This project involves the creation of an interactive Power BI dashboard using tr
 1. **Interactive Dashboard**:
     - Developed an interactive dashboard that visualizes transaction and customer data.
     - Displays real-time insights into key performance metrics and trends.
+    -  View dashboards in pdf [Dashboard pdf](Credit_card_weekly_Analysis_dashboards)
     
   ![Dashboard](Dashboard%20pdfs/Dashboard%20image1.jpg)
   ![Dashboard](Dashboard%20pdfs/dashboard%20image%202.jpg)
+
+     
 
 2. **Data Processing and Analysis**:
     - Streamlined data processing and analysis to ensure accurate and timely information.
@@ -39,7 +42,7 @@ This project involves the creation of an interactive Power BI dashboard using tr
 
 1. **Open Power BI**: Ensure you have Power BI Desktop installed on your machine.
 2. **Connect to SQL Database**: Use your SQL database credentials to connect Power BI to the data source.
-3. **Load Data**: Import the transaction and customer data into Power BI.
+3. **Load Data**: Import the transaction and customer data into Power BI. [CSV files](CSV%20files)
 4. **Open Dashboard**: Open the provided Power BI dashboard file (.pbix) to view the visualizations.
 5. **Interact with the Dashboard**: Use the filters and interactive elements to explore different aspects of the data.
 

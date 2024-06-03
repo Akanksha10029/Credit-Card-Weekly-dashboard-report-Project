@@ -29,8 +29,8 @@ This project involves the creation of an interactive Power BI dashboard using tr
 3. **Actionable Insights**:
     - Shared actionable insights based on dashboard findings.
     - Supported stakeholders in their decision-making processes by providing clear and concise data interpretations.
-    - View insights
-    
+    - **View insights**
+  ## [Insights](Insights/Credit%20Card%20weekly%20report.pdf)
     
 
 ---

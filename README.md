@@ -19,7 +19,8 @@ This project involves the creation of an interactive Power BI dashboard using tr
     - Developed an interactive dashboard that visualizes transaction and customer data.
     - Displays real-time insights into key performance metrics and trends.
     
-    ![Interactive Dashboard](path/to/interactive_dashboard_image.png)
+  
+
 
 2. **Data Processing and Analysis**:
     - Streamlined data processing and analysis to ensure accurate and timely information.

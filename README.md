@@ -1,5 +1,5 @@
-# Credit-Card-Weekly-dashboard-report-Project
-Power BI project 
+# Credit-Card-Weekly-dashboard-report-Project using Power Bi 
+
 
 ## Project Objective
 
@@ -52,7 +52,8 @@ This project involves the creation of an interactive Power BI dashboard using tr
     ```bash
     git clone https://github.com/your-repo/credit-card-dashboard.git
     ```
-3. **Open the Dashboard File**: Open the `credit_card_dashboard.pbix` file in Power BI Desktop.
+3. **Open the Dashboard File**: Open the `credit_card_dashboard.pbix` file in Power BI Desktop. [Credit_card_Analysis_report.pbix](Credit_card_Analysis_report.pbix)
+
 4. **Configure Database Connection**: Update the database connection settings in Power BI to point to your SQL database.
 
 ---

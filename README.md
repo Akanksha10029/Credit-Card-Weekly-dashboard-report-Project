@@ -18,7 +18,7 @@ This project involves the creation of an interactive Power BI dashboard using tr
 1. **Interactive Dashboard**:
     - Developed an interactive dashboard that visualizes transaction and customer data.
     - Displays real-time insights into key performance metrics and trends.
-    -  View dashboards in pdf [Dashboard pdf](Credit_card_weekly_Analysis_dashboards)
+    -  View dashboards in pdf [Dashboard pdf](Dashboard%20pdfs/Credit_card_weekly_Analysis_dashboards.pdf)
     
   ![Dashboard](Dashboard%20pdfs/Dashboard%20image1.jpg)
   ![Dashboard](Dashboard%20pdfs/dashboard%20image%202.jpg)
